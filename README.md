@@ -24,7 +24,7 @@ Pull the latest RustScan Docker image: `docker pull rustscan/rustscan:latest`
 
 ### Python and Libraries
 
-Ensure Python 3.6+ is installed and set as the default Python version. Install required libraries: `pip install -r requirements.txt`
+Ensure Python 3.6+ is installed and set as the default Python version. Uses standard python libraries.
 
 ## Usage
 
